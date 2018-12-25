@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Liam's Homepage
 
-I'm glad you are here. I plan to talk about ...
+Thanks for visiting! This page will be a summary of my current projects and future endeavors
